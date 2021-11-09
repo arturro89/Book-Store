@@ -42,6 +42,8 @@ html::-webkit-scrollbar-thumb {
   background: var(--black);
 }
 
+/* START OF HEADER */
+
 .header .header-1 {
   background: #fff;
   padding: 1.5rem 9%;
@@ -207,3 +209,5 @@ html::-webkit-scrollbar-thumb {
     font-size: 50%;
   }
 }
+
+/* END OF HEADER */
